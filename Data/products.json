@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "name": "Soulful Red Kalamkari Saree",
+      "category": "Saree",
+      "description": "The Art of wearing saree",
+      "price": 34.00,
+      "oldPrice": 42.99,
+      "image": "https://media-hosting.imagekit.io//a7ba958785b04865/Soulful%20Red%20Kalamkari%20Saree.jpg?Expires=1836584018&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1DgAyChgS-Qxv4VC4d5QsM9HLFzmKURPY0AVSn~33Yi-11Au-7~FrmrEVcLVd5LBnMExPQFI1C8vbZ3zRBDfobUaFGJS~pVZZPuzws79x0cc5nb~WQKzV~DPLyX~aomsfIOvQHLp9yAKwOQIdZGShfYFvb5nkaCOT1d6h7g0MC2OiktisxS4Vb6aCr7eAgbRYj~Is5~J9ONIjmsl6zJATrtzGWAgHi41y0rUY7to6rj-1lLy3ifkD1YDMcas~rcMnnmSgrVXfYn6Xpbgrk4AvBoVCxYXpN2FsJOIaA60E~Sl6lByCXjoDM3nsISL4LvNJ4oEMvUMkgQFKbFAl5SYAA__",
+      "color": "Red",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "id": 2,
+      "name": "Samira Kalamkari Saree",
+      "category": "Saree",
+      "description": "Elegant evening gown for special occasions.",
+      "price": 45.99,
+      "oldPrice": 47.99,
+      "image": "https://media-hosting.imagekit.io//b77beeb88cb547db/Samaira%20Kalamkari%20Saree.jpg?Expires=1836583724&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ztlUCBNlMJyM3Ox~5CHBuaExZDykPnhZl6wZIu2x138iqDSJbPeV0jaf-xgiRgQKn2tHvAPCpcFM2m9Rj1qxdTGkEyWNQFeHXTfkT8Nni5LxWmMd9dMErlSvnUQSXU0quiTMWHhXCr8tZntWAfSqEKOG7Aua5GqOGmUoZxkqqOMODv9Wvn~SyCyUUuKkqM4~wpdrk9uc95NWKoHYqHK3rtq71QZYtgCJNuD-P~JdxXr41TihXPLoJfAOIhmoM21~MxJMyByK9FtVSDB354uzn~rQf0K31utMp7gfAcXP3UKY-ZQT2~vdXE-xWQqsyZ37RuHf6I0fLb8Oy7m-A9itxA__",
+      "color": "Teel",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Pearl Necklace",
+      "category": "jewellery",
+      "description": "Exquisite  necklace with intricate design.",
+      "price": 1500.99,
+      "image": "https://media-hosting.imagekit.io//c642e0a8a76741fc/Stoned%20Pearl%20Necklace.jpg?Expires=1836584124&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1USB3~fFxQBuNefBvSwTXgOQHiteCmvepLyptFMjxabqY5R477tt5Y4L-p-gBiE9FVjv2DNwJ6Qk36CtZkJrPfl4ah6zBk9buWak24ccJGPw6BZtC5vE-YemQejZdFS9WDZj5Vpp-SjWd~7aotiwtXwBzumk2a7g3nhNTjZbdetlPIfuflJRFgARvXxpHQ6aG-FGU9cfgQUSzUvdMaMAMVxjwuaye~GjqM6O4h~bNxf07v1hhBH57mIfK7fKOaTxLVnvUTTY0pFVvkrl0SNTh~CBWkD0xlnFuFRwDfkThmjD5GDgneZEYUUWXRo2tMrUtfdVV~ejLQxPiSqdB18wHA__",
+      "color": "Pearl",
+      "rating": 4.7
+    },
+
+    
+    {
+      "id": 4,
+      "name": "Boho MultiLayered Crystal Pendant",
+      "category": "jewellery",
+      "description": "Elevate your style with multiple chains.",
+      "price": 500.00,
+      "image": "https://media-hosting.imagekit.io//7a0c180e34d245b8/Boho%20Multi-Layer%20Crystal%20Pendant.jpg?Expires=1836584231&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EAQGcWM18sL8~mACnaLZeqrphbgE1AE4E-kBdsU2boWd1~clIYCbl3px5IfC60sLpCzjXtrtT3oWp5A4c5jW2ANHQUUl7ETaHgc1HC1tHGPFCDN6ZHfRU7RBdsCUvNzvbkNSidl0YelnMTCwe~3Fm2bWPH05AjeTrUUkbcA-OAahASn4XhrT8PYTfo2c38EKcT~Wi8Jju9FF-5azQeigyFsx-BeO-FyVKuHLLfMSjIXzZwMn31-YzupK06SU03hoNkzwg-KgF7~hZ4We4uD3EdFCUPPDkBvRuSdOcNLIGvtPqv3PmYgbju3w1AjaSLwVlMkEfHLjZ15dNVQvoR6xZw__",
+      "color": "Gold",
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Queelin Petite Wulu Necklace ",
+      "category": "jewellery",
+      "description": "Sparkling diamond  that add elegance to any outfit.",
+      "price": 1500.99,
+      "oldPrice": 2000.99,
+      "image": "https://media-hosting.imagekit.io//42af2e1ced514f04/Qeelin%20Petite%20Wulu%20Necklace.jpg?Expires=1836584242&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QT6eUocDhscWbagTAVWm9xWB3xB8OvYMmWPmWaZNa~AfpXUxvElaPNzl0imRv8m6dhaHeXOdcVpH8p3lyZNVCu-2zRWFLB7TVAJ5dLluEeV6xhlFRaX1nqtul9LCmfJs~WHcUyg3uXnzGI8ibFgKJI9bOicfpb4hNjMiehLKRxfli09fPe2s63tW0VYLU1JCQGDoVSOLgQI2RhG~RIed~9XpeWrkoozOIuyeSXVH8F38SYr~k1h8IzOCUv078jE-GBb-ZtBFukYYxEgu6vatKsn1gN5RisBc0l5jzbsDi-v~OFXuN-EVn-rojy4WgVk-mEnX-n7gOCBI5Wwrn~5iuA__",
+      "color": "Diamond",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Black Embroided Kurta",
+      "category": "Dress",
+      "description": "High-coverage foundation for a flawless finish.",
+      "price": 250.00,
+      "image": "https://media-hosting.imagekit.io//2c8e4e40d58845bb/Black%20Embroidered%20Kurta%20Patiala.jpg?Expires=1836583180&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=c68SbDdnSiRZFnJ7UVa~1oWTLPFwtfELf4JUlUGlz81AvN3HwjVB0IhPuYNad9ZS5qxt82KtHxSf523sSTvkfv61xxpIFOgGbjL-ZcxnfdenK0EKOL-5HYmcXR5DcXJf4VgMZyJvmpgf7v8J7j9I6vgdfDUgkcJe3UC3sMCe9eH6ZEgGazZ0ExG~0WV0msY9StEZsPS518B3R63ocuxCarGAUbwhIjQ7WilW-J7uzBcziDZqGZIjBgbH4JJH3RVETgc1ILprZ8fq72uNRW81~F7vPc~d3L-VzDjsaFMRatduamqFaJ96AQwYxjSG3WOXb3ZoiY04TFPcenVqZIXhug__",
+      "color": "black",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "name": "Rose Brown Chikankari Kurta",
+      "category":  "Dress",
+      "description": "Art of Elegance.",
+      "price": 250.00,
+      "image": "https://media-hosting.imagekit.io//1f4c08c1149245ad/Rose%20Brown%20Chikankari%20Kurta.jpg?Expires=1836583700&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hdf15dcrF67fLO8bWhBHjun4ILU3hj1ntOSFEPCybH0Pp7EaGkktdvHfNjBtgAw~BJjNPnOibttUb16MNr0WF2ivNua-~eAZxSwTuItcIJceO9yay03LwWsJ~9ysCE~aSRgmCglTcVjhd65Og4dlGH4aEM-~dNSP2Pj8ParTzOjZlFTXSc2oQ7Jyau8ur4ABf-yJ1n5mMlDD37cmkROUIs-npNcB~eQbXzEB5lokl4ejL3kZQfBClSwSOnUFBrc4CqSXhr35sFqTmGvpQAD02-c5wSnITW8BYUuHYoeq8pxreBjOurVIix6Fv5plsY4-P~dtgFCJch~9Mb8Dpc504A__",
+      "color": "Rose Brown",
+      "rating": 4.6
+    }
+]
