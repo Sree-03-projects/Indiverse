@@ -1,0 +1,32 @@
+[ 
+    {
+        "id": 1,
+        "title": "The Rise of Sustainable Fashion",
+        "subtitle": "Eco-friendly trends and practices",
+        "date": "15 Nov 2023",
+        "imageUrl": "https://media-hosting.imagekit.io//b77beeb88cb547db/Samaira%20Kalamkari%20Saree.jpg?Expires=1836583724&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ztlUCBNlMJyM3Ox~5CHBuaExZDykPnhZl6wZIu2x138iqDSJbPeV0jaf-xgiRgQKn2tHvAPCpcFM2m9Rj1qxdTGkEyWNQFeHXTfkT8Nni5LxWmMd9dMErlSvnUQSXU0quiTMWHhXCr8tZntWAfSqEKOG7Aua5GqOGmUoZxkqqOMODv9Wvn~SyCyUUuKkqM4~wpdrk9uc95NWKoHYqHK3rtq71QZYtgCJNuD-P~JdxXr41TihXPLoJfAOIhmoM21~MxJMyByK9FtVSDB354uzn~rQf0K31utMp7gfAcXP3UKY-ZQT2~vdXE-xWQqsyZ37RuHf6I0fLb8Oy7m-A9itxA__"
+        
+      },
+
+    {
+        "id": 2,
+        "title": "The Art of Layered Necklaces",
+        "subtitle": "Elevate your style with multiple chains",
+        "date": "20 Nov 2023",
+        "imageUrl": "https://media-hosting.imagekit.io//7a0c180e34d245b8/Boho%20Multi-Layer%20Crystal%20Pendant.jpg?Expires=1836584231&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EAQGcWM18sL8~mACnaLZeqrphbgE1AE4E-kBdsU2boWd1~clIYCbl3px5IfC60sLpCzjXtrtT3oWp5A4c5jW2ANHQUUl7ETaHgc1HC1tHGPFCDN6ZHfRU7RBdsCUvNzvbkNSidl0YelnMTCwe~3Fm2bWPH05AjeTrUUkbcA-OAahASn4XhrT8PYTfo2c38EKcT~Wi8Jju9FF-5azQeigyFsx-BeO-FyVKuHLLfMSjIXzZwMn31-YzupK06SU03hoNkzwg-KgF7~hZ4We4uD3EdFCUPPDkBvRuSdOcNLIGvtPqv3PmYgbju3w1AjaSLwVlMkEfHLjZ15dNVQvoR6xZw__"
+    },
+    {
+        "id":3,
+        "title": "The Art of Wearing Sarees",
+        "subtitle": "Styling Tips for Every Occasion",
+        "date": "20 October 2023",
+        "imageUrl": "https://media-hosting.imagekit.io//a7ba958785b04865/Soulful%20Red%20Kalamkari%20Saree.jpg?Expires=1836584018&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1DgAyChgS-Qxv4VC4d5QsM9HLFzmKURPY0AVSn~33Yi-11Au-7~FrmrEVcLVd5LBnMExPQFI1C8vbZ3zRBDfobUaFGJS~pVZZPuzws79x0cc5nb~WQKzV~DPLyX~aomsfIOvQHLp9yAKwOQIdZGShfYFvb5nkaCOT1d6h7g0MC2OiktisxS4Vb6aCr7eAgbRYj~Is5~J9ONIjmsl6zJATrtzGWAgHi41y0rUY7to6rj-1lLy3ifkD1YDMcas~rcMnnmSgrVXfYn6Xpbgrk4AvBoVCxYXpN2FsJOIaA60E~Sl6lByCXjoDM3nsISL4LvNJ4oEMvUMkgQFKbFAl5SYAA__"
+    },
+    {
+        "id": 4,
+        "title": "Fashion Events to Look Forward To",
+        "subtitle": "Upcoming Shows and Exhibitions",
+        "date": "25 October 2023",
+        "imageUrl": "https://media-hosting.imagekit.io//1f4c08c1149245ad/Rose%20Brown%20Chikankari%20Kurta.jpg?Expires=1836583700&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hdf15dcrF67fLO8bWhBHjun4ILU3hj1ntOSFEPCybH0Pp7EaGkktdvHfNjBtgAw~BJjNPnOibttUb16MNr0WF2ivNua-~eAZxSwTuItcIJceO9yay03LwWsJ~9ysCE~aSRgmCglTcVjhd65Og4dlGH4aEM-~dNSP2Pj8ParTzOjZlFTXSc2oQ7Jyau8ur4ABf-yJ1n5mMlDD37cmkROUIs-npNcB~eQbXzEB5lokl4ejL3kZQfBClSwSOnUFBrc4CqSXhr35sFqTmGvpQAD02-c5wSnITW8BYUuHYoeq8pxreBjOurVIix6Fv5plsY4-P~dtgFCJch~9Mb8Dpc504A__"
+        }
+    ]
